@@ -69,7 +69,7 @@ def compute_universal_color_table():
 
 def compute_adaptive_color_table():
     adaptive_color_table = []
-    # group pixels by 16 (4x4)
+    # group pixels by 256 (16x16)
     for i in range(0, height, 16):
         for j in range(0, width, 16):
             # mean value of each group
