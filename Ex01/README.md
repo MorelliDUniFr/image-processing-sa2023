@@ -1,7 +1,7 @@
 # Assignement 1
 
 - author: Davide Morelli
- -github link: https://github.com/MorelliDUniFr/image-processing-sa2023/tree/master
+ -github link: https://github.com/MorelliDUniFr/image-processing-sa2023/tree/master/Ex01
 
 ## Flipping algorithm
 In order to flip an image pixel by pixel, we fist need to read every pixel of the image. 
